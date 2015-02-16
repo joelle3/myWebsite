@@ -3,12 +3,6 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta name="description" content="">
-		<meta name="author" content="">
-	
 		<title>WHIM</title>
 		
 		<!-- Latest compiled and minified CSS -->
@@ -31,9 +25,7 @@
 	<body>
 			<!--tumblr post JavaScript SDK-->
 			<script src="http://platform.tumblr.com/v1/share.js"></script>
-		
-		
-		
+
 		<!--sets up fixed/scrolling navigation bar-->
 		<nav class="navbar navbar-default navbar-fixed-top navbar-inverse">
 			<div class="container-fluid">
